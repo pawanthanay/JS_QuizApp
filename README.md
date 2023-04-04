@@ -1,5 +1,5 @@
 # JS_QuizApp
-![image](./Image/Project_1.png )
+![image](./Image/Quiz_app.png )
 
 [<img src= "https://img.shields.io/badge/projcet live link-10b?style=for-the-badge&logo=&logoColor=white" />](https://js1accordion.netlify.app/)
 
